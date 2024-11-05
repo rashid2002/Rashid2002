@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👯 I’m looking to collaborate on **Social Networking Website**
-
 - 💬 Ask me about **Python, MERN Stack, Data Analyst, Machine Learning**
 
 - 📫 How to reach me **rashid99ansariy2j@gmail.com, rashid99ansari12@gmail.com**
